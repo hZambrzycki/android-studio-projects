@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BBDD HZ</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="eliminar">ELIMINAR</string>
+</resources>
